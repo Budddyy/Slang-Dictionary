@@ -24,19 +24,263 @@
     font-size: 225%;
     position: relative;
 }
-.buttons{
-    position: relative;
-    padding-top: 4%;
+.columns{
+    display: flex;
+    position:relative;
+    padding-top:2%;
 }
-.genZButton{
+.columnOne{
+    flex: 1;
+}
+.columnTwo{
+    flex: 1;
+}
+.columnThree{
+    flex: 1;
+}
+.columnFour{
+    flex: 1;
+}
+.columnFive{
+    flex: 1;
+}
+.a1{
     background: transparent;
     border: none;
     cursor: pointer;
-    color: #fff;
+    color:#fff
 }
-.genAButton{
+.a2{
     background: transparent;
     border: none;
     cursor: pointer;
-    color: #fff;
+    color:#fff
+}
+.a3{
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.a4{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.a5{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.a6{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.a7{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.a8{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.b1{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.b2{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.b3{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.b4{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.b5{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.b6{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.b7{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.b8{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.c1{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.c2{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.c3{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.c4{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.c5{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.c6{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.c7{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.c8{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.d1{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.d2{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.d3{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.d4{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.d5{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.d6{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.d7{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.d8{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.e1{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.e2{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.e3{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.e4{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.e5{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.e6{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.e7{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
+}
+.e8{
+    background:transparent;
+    border: none;
+    cursor: pointer;
+    color:#fff
 }

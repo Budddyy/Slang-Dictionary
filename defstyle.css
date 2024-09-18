@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+.hero{
+    width:100%;
+    min-height:100vh;
+    background: linear-gradient(158deg, #051937, #004d7a, #008793, #00bf72, #a8eb12 );
+    color: #fff;
+    position: relative;
+}
+.top{
+    position: relative;
+    padding-top: 2%;
+}
+.lineOne{
+    font-size: 450%;
+    position: relative;
+    padding-top: 1%;
+}
+.lineTwo{
+    font-size: 225%;
+    position: relative;
+}
